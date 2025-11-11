@@ -1,0 +1,13 @@
+{
+  "registrations": [
+    {
+      "id": "c7bc",
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "phone": "9898989898",
+      "session": "State Management",
+      "type": "Offline",
+      "tags": []
+    }
+  ]
+}
